@@ -52,5 +52,6 @@ The visuals help stakeholders make data-driven decisions to improve inventory st
 ## 📝 Author
 
 **Shilpa K C**  
-[LinkedIn Profile (optional)]  
+[LinkedIn](https://www.linkedin.com/in/shilpa-kc) | [Email](shilpakcc@gmail.com)
 For any queries, feel free to reach out.
+

@@ -22,7 +22,7 @@ The visuals help stakeholders make data-driven decisions to improve inventory st
 ## 📁 Files
 
 - `blinkit.pbix`: Main Power BI report file
-- `screenshot.png`: Sample snapshot of the dashboard
+- `blinkit.pdf`: Sample snapshot of the dashboard
 
 ## 🧪 Key Metrics Visualized
 
@@ -48,9 +48,6 @@ The visuals help stakeholders make data-driven decisions to improve inventory st
 - Outlets with low fat content perform better
 - Tier-wise performance varies significantly
 
-## 📷 Sample Dashboard
-
-![Dashboard Screenshot](Screenshot%20(186).png)
 
 ## 📝 Author
 

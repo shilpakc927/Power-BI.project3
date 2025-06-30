@@ -1,45 +1,80 @@
-# 🛒 Blinkit Power BI Dashboard
+# 🛒 Blinkit Power BI Sales Dashboard
 
-This Power BI project provides a comprehensive sales analysis for Blinkit (India’s last-minute delivery app), visualizing key metrics such as total sales, item categories, outlet performance, and fat content breakdown across different store types.
+This Power BI project analyzes sales data for **Blinkit**, a rapid delivery service in India. The dashboard provides a detailed visual summary of sales metrics, product categories, and outlet-level performance, enabling stakeholders to understand trends and make data-driven business decisions.
+
+---
 
 ## 📊 Project Overview
 
-The dashboard gives insights into:
-- **Total Sales** and **Average Sales**
-- **Outlet Performance** by Tier and Establishment Year
-- **Item Types** and their contribution to sales
-- **Fat Content** breakdown by outlet
-- **Rating and Item Count** by outlet and category
+This interactive Power BI dashboard was developed to:
+- Track **Total Sales**, **Number of Items**, and **Average Sales per Outlet**
+- Compare **Tier-wise Outlet Performance**
+- Understand **Product Category Contributions** (e.g., Fruits, Snacks, Dairy)
+- Monitor **Outlet Ratings** and **Establishment Trends**
+- Analyze **Fat Content Distribution** across product types and outlets
 
-The visuals help stakeholders make data-driven decisions to improve inventory strategy, store performance, and customer satisfaction.
+The dashboard is organized into interactive visuals with slicers and dynamic KPIs for user-friendly exploration.
 
-## 🧰 Tools Used
+---
 
-- **Power BI Desktop** for creating interactive visuals and charts
-- **Power Query** for data transformation and cleaning
-- **DAX (Data Analysis Expressions)** for calculated columns and measures
+## 🔍 Key Insights Uncovered
 
-## 📁 Files
+### 1. 💰 Sales Performance
+- **Total Sales:** $1.20M
+- **Highest Sales Tier:** Tier 3 ($472.15K)
+- **Average Sales per Outlet:** $141
 
-- `blinkit.pbix`: Main Power BI report file
-- `blinkit.pdf`: Sample snapshot of the dashboard
+### 2. 📦 Item Distribution
+- **Most Sold Category:** Fruits & Vegetables
+- **Category Insights:** Snacks, Frozen Foods, and Dairy are top contributors.
+- **Low-Contribution Items:** Seafood and Breakfast products have minimal sales.
 
-## 🧪 Key Metrics Visualized
+### 3. 🏪 Outlet Analysis
+- **Outlets by Tier:**
+  - Tier 1 and 2 outlets show moderate performance.
+  - Tier 3 outlets contribute the most to overall revenue.
+- **Rating Trends:**
+  - Average Rating: 3.9
+  - Supermarket Type 3 has the highest average rating.
 
-| Metric                | Value         |
-|-----------------------|---------------|
-| Total Sales           | $1.20M        |
-| Number of Items       | 8,523         |
-| Average Sales         | $141          |
-| Average Rating        | 3.9           |
-| Top Item Category     | Fruits & Veggies |
-| Highest Outlet Tier   | Tier 3 ($472.15K) |
+### 4. 🧈 Fat Content Visualization
+- Comparison of **Low Fat** vs **Regular Fat** items.
+- Outlets selling more **Low Fat** items generate higher engagement and sales.
+
+---
+
+## 📁 Project Files
+
+| File Name              | Description                                      |
+|------------------------|--------------------------------------------------|
+| `blinkit.pbix`         | Power BI report file with all visuals and data  |
+| `blinkit.pdf`          | Image preview of the dashboard layout           |
+| `README.md`            | Documentation for the GitHub repository         |
+
+---
+
+## 🧰 Tools and Technologies
+
+- **Power BI Desktop**: Used for creating visuals and dashboards
+- **Power Query**: Data transformation and cleaning
+- **DAX**: Custom measures and calculated fields
+- **Slicers**: For dynamic filtering by category, outlet, and tier
+- **Card Visuals**: For KPIs like Total Sales, Average Rating, and Item Count
+- **Pie & Bar Charts**: For product-type sales and fat distribution
+
+---
 
 ## 🚀 How to Use
 
-1. Open the `.pbix` file in **Power BI Desktop**
-2. Explore the visualizations and interact with slicers (e.g., by item type, outlet tier)
-3. Filter and analyze data trends by year, rating, or fat content
+1. Download and open the `blinkit.pbix` file in **Power BI Desktop**.
+2. Use slicers to filter by:
+   - Outlet Tier
+   - Product Category
+   - Fat Type
+3. Hover on charts and bars for detailed tooltips.
+4. Explore trends across different **years**, **ratings**, and **sales performance**.
+
+---
 
 ## 📌 Insights Delivered
 
@@ -48,10 +83,11 @@ The visuals help stakeholders make data-driven decisions to improve inventory st
 - Outlets with low fat content perform better
 - Tier-wise performance varies significantly
 
-
+----
 ## 📝 Author
 
 **Shilpa K C**  
 [LinkedIn](https://www.linkedin.com/in/shilpa-kc) | [Email](shilpakcc@gmail.com)
+
 For any queries, feel free to reach out.
 

@@ -84,6 +84,11 @@ The dashboard is organized into interactive visuals with slicers and dynamic KPI
 - Tier-wise performance varies significantly
 
 ----
+## 📸 Project Screenshot
+
+- [Dashboard Screenshot](Screenshot%2096.png)
+
+---  
 ## 📝 Author
 
 **Shilpa K C**  
